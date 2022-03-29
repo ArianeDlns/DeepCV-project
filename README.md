@@ -1,4 +1,7 @@
 # DeepCV-project
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+[![Open in Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.dev/ArianeDlns/DeepCV-project/tree/main) [![GitHub commit](https://badgen.net/github/last-commit/ArianeDlns/chatbot-presidentielle2022/main)](https://GitHub.com/ArianeDlns/DeepCV-project/issues/)
+
 Project for the Deep Learning &amp; Computer Vision course @CentraleSupélec 
 
 ## Installation
