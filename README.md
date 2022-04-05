@@ -73,5 +73,5 @@ streamlit run pokemon_color.py
 ## References
 [1] Guillaume Charpiat, Ilja Bezrukov, Yasemin Altun, Matthias Hofmann and Bernhard Schölkopf, [Machine Learning Methods for Automatic Image Colorization](https://www.lri.fr/~gcharpia/publis_en_images/colorisation/) , chapter of the book Computational Photography: Methods and Applications, R. Lukac Editor, CRC Press.  
 [2] Richard Zhang, Phillip Isola, and Alexei A. Efros. [Colorful image colorization. CoRR, abs/1603.08511, 2016.](https://richzhang.github.io/colorization/)  
-[3] Erik Reinhard, Michael Ashikhmin, Bruce Gooch, and Peter Shirley [Color Transferbetween Images](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf)  
+[3] Erik Reinhard, Michael Ashikhmin, Bruce Gooch, and Peter Shirley [Color Transfer between Images](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf)  
 [4] Francois Pitié, Anil C. Kokaram, Rozenn Dahyot [Automated colour grading using colour distribution transfer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.7694&rep=rep1&type=pdf)  
