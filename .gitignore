@@ -133,3 +133,6 @@ data/
 old/ 
 references/
 out/ 
+images/
+outputs/
+checkpoints/
